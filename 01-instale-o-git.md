@@ -15,13 +15,8 @@
 
 <https://windows.github.com>
 
-**Para que serve, e quando eu usaria:**
-
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+Instalador do aplicativo da plataforma GitHub para sistemas operacionais Windows. 
+>  Traz a ideia de simplificar o ambiente de desenvolvimento da plataforma sem utiliza-lá no navegador, trazendo interfaces diferentes e algumas features novas.
 
 ---
 
