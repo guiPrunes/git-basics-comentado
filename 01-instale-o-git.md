@@ -41,9 +41,9 @@ Instalador da ferramenta de versionamento Git para Sistemas Operacionais Windows
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [X] 1. GitHub para Windows
+- [X] 2. GitHub para Mac
+- [X] 3. Git para todas as plataformas
 
 ---
 
