@@ -24,13 +24,9 @@ Instalador do aplicativo da plataforma GitHub para sistemas operacionais Windows
 
 <https://mac.github.com>
 
-**Para que serve, e quando eu usaria:**
+Instalador do aplicativo da plataforma GitHub para Sistemas Operacionais MacOS.  
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+>  Difere do modelo de instalação do Windows, por se tratar de um sistema operacional diferente. Aparentemente se mantém no mesmo esquema do Windows.
 
 ---
 
