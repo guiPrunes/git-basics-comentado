@@ -34,13 +34,8 @@ Instalador do aplicativo da plataforma GitHub para Sistemas Operacionais MacOS.
 
 <https://git-scm.com>
 
-**Para que serve, e quando eu usaria:**
-
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+Instalador da ferramenta de versionamento Git para Sistemas Operacionais Windows/MacOs.
+> O página reconhece o Sistema Operacional do usuário e já redireciona a última versão do instalador para o sistema.
 
 ---
 
