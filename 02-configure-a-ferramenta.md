@@ -17,13 +17,9 @@
 git config --global user.name "[nome]"
 ```
 
-**O que faz:**
+Configura o nome do usuário local no Git.
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+> Essa configuração é mais para a máquina mesmo, você pode ter um usuário diferente daqui do que no GitHub.
 
 ---
 
