@@ -36,8 +36,8 @@ Configura o e-mail do usuário local no Git.
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
-- [ ] 2. `git config --global user.email "[endereco-de-email]"`
+- [X] 1. `git config --global user.name "[nome]"`
+- [X] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
 
