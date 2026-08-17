@@ -29,13 +29,8 @@ Configura o nome do usuário local no Git.
 git config --global user.email "[endereco-de-email]"
 ```
 
-**O que faz:**
-
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+Configura o e-mail do usuário local no Git.
+> Aqui o ideal é que seja colocado seu e-mail do GitHub, se não ele apenas não irá vincular com nenhuma conta, mostrando como autor sem conta vinculada.
 
 ---
 
