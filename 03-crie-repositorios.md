@@ -17,13 +17,9 @@
 git init [nome-do-projeto]
 ```
 
-**O que faz:**
+Inicializa um repositório na pasta local onde o comando foi rodado (via terminal)
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+> Tenha cuidado ao utilizar esse comando, pois cria uma cópia de todos os arquivos para versionamento, então se criar em alguma pasta raiz, vai te dar problemas.
 
 ---
 
