@@ -29,13 +29,9 @@ Inicializa um repositório na pasta local onde o comando foi rodado (via termina
 git clone [url]
 ```
 
-**O que faz:**
+Clona um repositório via link do GitHub, faz uma cópia de todos os arquivos.
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
-**Quando usar / observação:**
-
-<!-- TODO: opcional, mas conta ponto. -->
+> Se você clonar um repositório dentro de uma pasta, ele vai criar uma pasta dentro da pasta. Então acredito que seja legal clonar o repositório justamente aonde ele deve ficar.
 
 ---
 
