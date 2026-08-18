@@ -37,8 +37,8 @@ Clona um repositório via link do GitHub, faz uma cópia de todos os arquivos.
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [X] 1. `git init [nome-do-projeto]`
+- [X] 2. `git clone [url]`
 
 ---
 
